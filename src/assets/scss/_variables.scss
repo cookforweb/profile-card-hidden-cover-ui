@@ -1,0 +1,34 @@
+// Variables
+
+//- Override and add to color system
+$blue: #34ace0;
+$indigo: #6574cd;
+$purple: #706fd3;
+$pink: #f66D9b;
+$red: #ff5252;
+$orange: #ff793f;
+$yellow: #ffb142;
+$green: #33d9b2;
+$teal: #4dc0b5;
+$cyan: #34ace0;
+$swan_white: #f7f1e3;
+
+
+//- Override primary color
+$primary: $cyan !default;
+
+//- Override font system
+$font-family-sans-serif: "Cabin", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", 'Noto Color Emoji' !default;
+$font-family-serif: "Exo 2", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", 'Noto Color Emoji' !default;
+$font-family-base: $font-family-serif !default;
+$headings-font-family: $font-family-sans-serif !default;
+
+//- Add custom variables
+$navbar-height: 4.5rem !default;
+
+
+$font-weight-lighter:         200;
+$font-weight-light:           300;
+$font-weight-normal:          400;
+$font-weight-bold:            700;
+$font-weight-bolder:          900;

@@ -1,0 +1,18 @@
+// Import custom variables and override default Bootstrap variables
+@import url('https://fonts.googleapis.com/css?family=Cabin:400,500,600,700|Nunito:200,600|Exo+2:500,600,700,800,900');
+
+@import "variables.scss";
+
+// Import Bootstrap
+@import "./node_modules/bootstrap/scss/bootstrap.scss";
+
+$transition-duration: 700ms;
+
+
+// Import custom styles
+@import "mixins.scss";
+@import "extends.scss";
+@import "global.scss";
+@import "profile.scss";
+@import "specifications.scss";
+@import "handler.scss";
