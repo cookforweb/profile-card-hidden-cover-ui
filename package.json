@@ -21,7 +21,7 @@
     "@chenfengyuan/datepicker": "^1.0.9",
     "babel-polyfill": "^6.26.0",
     "bootstrap": "^4.4.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "parsleyjs": "^2.9.2",
     "picturefill": "^3.0.3",
     "selectize": "^0.12.6",
